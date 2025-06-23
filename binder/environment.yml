@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - stellarphot==2.0.0
+    - astro-notebooks
+    - astropy >=7
+    - reducer
+    - git+https://github.com/mwcraig/astrowidgets.git@jupyter3-astrowid
