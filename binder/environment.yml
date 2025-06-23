@@ -9,3 +9,4 @@ dependencies:
     - astropy >=7
     - reducer
     - git+https://github.com/mwcraig/astrowidgets.git@jupyter3-astrowid
+    - bqplot-image-gl
